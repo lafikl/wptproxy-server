@@ -1,0 +1,7 @@
+{
+  "targets": [
+    {"id": "B", "target": "http://example.com"}
+  ],
+  "port": 80,
+  "healthCheck": 5000
+}
